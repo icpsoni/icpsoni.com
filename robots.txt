@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://icpsoni.github.io/icpsoni.com/sitemap.xml
+Sitemap: https://icpsoni.com/sitemap.xml

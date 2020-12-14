@@ -2,12 +2,12 @@
 name: Chandraprakash Soni
 title: Chandraprakash Soni | Full Stack Engineer
 description: Full stack developer & engineer, love to build robust and unit tested web applications.
-url: https://icpsoni.github.io/icpsoni.com/
+url: https://icpsoni.com/
 baseurl: ""
 email: hello@icpsoni.com
-cover: https://icpsoni.github.io/icpsoni.com/img/og.png
-logo: https://icpsoni.github.io/icpsoni.com/img/emojis/technologist.png
-resume: https://icpsoni.github.io/icpsoni.com/resume.pdf
+cover: https://icpsoni.com/img/og.png
+logo: https://icpsoni.com/img/emojis/technologist.png
+resume: https://icpsoni.com/resume.pdf
 social:
   - title: email
     url: mailto:hello@icpsoni.com
