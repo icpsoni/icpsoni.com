@@ -1,0 +1,45 @@
+# Site settings
+name: Chandraprakash Soni
+title: Chandraprakash Soni | Full Stack Engineer
+description: Full stack developer & engineer, love to build robust and unit tested web applications.
+url: https://icpsoni.com/
+baseurl: ""
+email: hello@icpsoni.com
+cover: https://icpsoni.com/img/og.png
+logo: https://icpsoni.com/img/emojis/technologist.png
+resume: https://icpsoni.com/resume.pdf
+social:
+  - title: email
+    url: mailto:hello@icpsoni.com
+  - title: github
+    url: https://github.com/icpsoni
+  - title: linkedin
+    url: https://www.linkedin.com/in/icpsoni
+  - title: twitter
+    url: https://twitter.com/icpsoni
+  - title: instagram
+    url: https://instagram.com/icpsoni
+  - title: codepen
+    url: http://codepen.io/icpsoni
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "*.gemspec"
+  - "README.md"
+  - "node_modules"
+  - "build"
+  - "gulpfile.js"
+  - "package.json"
+
+keep_files:
+  - "CNAME"
+  - ".git"
+  - ".gitignore"
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap

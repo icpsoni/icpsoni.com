@@ -1,0 +1,30 @@
+languages:
+  - item: JavaScript
+  - item: TypeScript
+  - item: HTML
+  - item: CSS/Sass
+  - item: Go lang
+  - item: SQL
+  - item: PHP
+
+frameworks:
+  - item: React
+  - item: Angular
+  - item: Node
+  - item: Express
+  - item: Mongoose
+  - item: Dialogflow
+  - item: Alexa Skill Kit
+
+tools:
+  - item: Git & Github
+  - item: AWS
+  - item: Postman
+  - item: Chrome DevTools
+  - item: Bash
+  - item: Spark AR Studio
+
+database:
+  - item: MongoDB
+  - item: MySQL
+  - item: Postgres

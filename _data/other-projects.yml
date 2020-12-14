@@ -1,0 +1,40 @@
+- name: Google Dialogflow Webhook
+  url: https://github.com/icpsoni/dialogflow-webhook
+  code: https://github.com/icpsoni/dialogflow-webhook
+  description: Small Demo on deploying the google dialogflow webhook to 3rd party services and using it in Google Dialogflow.
+  used:
+    - thing: JavaScript
+    - thing: Google Dialogflow
+
+- name: Website Crawler
+  url: https://github.com/icpsoni/crawl-parse-scrap-save
+  code: https://github.com/icpsoni/crawl-parse-scrap-save
+  description: A website crawler wrote in NodeJS using EJS templating engine which can fetch details and listings of Car
+    Service Centres across the country and other details related to them.
+  used:
+    - thing: NodeJS
+    - thing: EJS
+
+- name: The Z Hackers
+  url: https://github.com/icpsoni
+  code: https://github.com/icpsoni
+  description: A blogging engine on latest technology and trends in Computer Science, where admins can post their artichles
+    and other users and interact by Likes and Comments.
+  used:
+    - thing: PHP
+    - thing: MySQL
+    - thing: HTML
+    - thing: CSS
+    - thing: JQuery
+
+- name: School ERP System
+  url: https://github.com/icpsoni
+  code: https://github.com/icpsoni
+  description: Final project for my Software Engineering course at Poornima College. A school enterprise resource planning
+    that allows management, teachers and parents to manage and check students performance.
+  used:
+    - thing: PHP
+    - thing: MySQL
+    - thing: HTML
+    - thing: CSS
+    - thing: JQuery
