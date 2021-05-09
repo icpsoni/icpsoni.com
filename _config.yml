@@ -9,6 +9,8 @@ cover: https://icpsoni.com/img/og.png
 logo: https://icpsoni.com/img/emojis/technologist.png
 resume: https://icpsoni.com/resume.pdf
 social:
+  - title: blog
+    url: https://icpsoni.medium.com
   - title: email
     url: mailto:hello@icpsoni.com
   - title: github
