@@ -5,26 +5,27 @@ languages:
   - item: CSS/Sass
   - item: Go lang
   - item: SQL
-  - item: PHP
 
 frameworks:
   - item: React
   - item: Angular
   - item: Node
   - item: Express
+  - item: Jest
+  - item: Redux
   - item: Mongoose
-  - item: Dialogflow
-  - item: Alexa Skill Kit
 
 tools:
-  - item: Git & Github
+  - item: Git
   - item: AWS
-  - item: Postman
+  - item: Kubernetes
+  - item: Docker
   - item: Chrome DevTools
-  - item: Bash
-  - item: Spark AR Studio
+  - item: MinIO
+  - item: Heroku
 
 database:
+  - item: Postgres
   - item: MongoDB
   - item: MySQL
-  - item: Postgres
+  - item: DynamoDB
